@@ -1,4 +1,4 @@
-# Face_Detection_YOLOv8
+## Face_Detection_YOLOv8
 
 The Face Detection project utilizes the YOLOv8 (You Only Look Once) architecture for high-performance face detection. YOLOv8 is an advanced object detection model known for its speed and accuracy. This project provides a pipeline for training, validating, and testing the YOLOv8 model specifically for detecting faces in images, videos, and live webcam feeds.
 
