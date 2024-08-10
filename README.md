@@ -13,7 +13,7 @@ The YOLOv8 Face Detection project utilizes the YOLOv8 (You Only Look Once) archi
 
 
 # Results 
-After training the model for 20 epochs, the model demonstrates high accuracy in face detection, achieving an accuracy of # 91.85%. This performance is confirmed by the confusion matrix, which provides detailed insights into the model's precision and recall. The confusion matrix and other relevant result files can be found in the results folder.
+After training the model for 20 epochs, the model demonstrates high accuracy in face detection, achieving an accuracy of 91.85%. This performance is confirmed by the confusion matrix, which provides detailed insights into the model's precision and recall. The confusion matrix and other relevant result files can be found in the results folder.
 
 # Output 
 The output folder contains images that have been processed using the model.
