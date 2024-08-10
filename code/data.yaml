@@ -1,0 +1,6 @@
+path: 'C:\Users\Admin\Documents\GREESHMA\CDSAML\face_detection\dataset'
+train: 'C:\Users\Admin\Documents\GREESHMA\CDSAML\face_detection\dataset\train\images\train'
+val: 'C:\Users\Admin\Documents\GREESHMA\CDSAML\face_detection\dataset\val\images'
+
+names:
+  0: face
